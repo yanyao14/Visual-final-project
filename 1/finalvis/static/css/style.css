@@ -1,0 +1,21 @@
+/** 初始化 **/
+body {
+    width: 100%;
+    height: 100%;
+}
+.chart-box {
+    position: absolute;
+    top: 0.42rem;
+    bottom: 0;
+    width: 90%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    height: auto;
+}
+.pie-chart>div {
+    float: left;
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
